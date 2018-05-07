@@ -1,0 +1,22 @@
+1
+1
+9,12,16,17,18
+data source=erpdbdev;persist security info=false;user id=panshierp;password=123@123;
+Database=psdrp3;Data Source=192.168.32.215;User Id=root;Password=8812345;Port=3306;charset=utf8;
+
+
+
+
+
+
+
+//1立即执行
+//1写日志
+//12:30,18执行时间
+//ERP数据库链接
+//DRP数据库链接
+开发:Database=psdrp;Data Source=192.168.25.211;User Id=root;Password=8812345;Port=3306;charset=utf8;
+测试:Database=psdrp3;Data Source=192.168.32.215;User Id=root;Password=8812345;Port=3306;charset=utf8;
+正式：
+Database=psdrp;Data Source=192.168.20.150;User Id=psdrp;Password=psdrp2012.db;Port=3306;charset=utf8;
+Database=psdrp;Data Source=192.168.20.36;User Id=psdrp;Password=psdrp2012.db;Port=3306;charset=utf8;

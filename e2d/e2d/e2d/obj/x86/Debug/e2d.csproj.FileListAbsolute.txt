@@ -1,0 +1,9 @@
+D:\panshi\e2d\e2d\e2d\bin\Debug\e2d.exe
+D:\panshi\e2d\e2d\e2d\bin\Debug\e2d.pdb
+D:\panshi\e2d\e2d\e2d\bin\Debug\MySql.Data.dll
+D:\panshi\e2d\e2d\e2d\obj\x86\Debug\e2d.ProjectInstaller.resources
+D:\panshi\e2d\e2d\e2d\obj\x86\Debug\e2d.csproj.GenerateResource.Cache
+D:\panshi\e2d\e2d\e2d\obj\x86\Debug\e2d.exe
+D:\panshi\e2d\e2d\e2d\obj\x86\Debug\e2d.pdb
+D:\panshi\e2d\e2d\e2d\bin\Debug\e2d.txt
+D:\panshi\e2d\e2d\e2d\bin\Debug\Oracle.DataAccess.dll
